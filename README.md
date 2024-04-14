@@ -3,7 +3,7 @@ glad
 
 Glad for use in DMU C++ modules.
 
-Include you CMakeLists.txt using FetchContent.
+Include in your CMakeLists.txt file using FetchContent.
 
 ## Example
 
@@ -17,4 +17,5 @@ FetchContent_Declare(
  FetchContent_MakeAvailable(glad)
 ```
 
+The use as per the glad docs and examples at https://github.com/Dav1dde/glad
 
