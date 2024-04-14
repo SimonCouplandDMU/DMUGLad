@@ -1,0 +1,15 @@
+#Ignore everything
+*
+
+#except
+!.gitIgnore
+!CMakeLists.txt
+!LICENSE
+!README.md
+!include/
+!include/glad/
+!include/KHR/
+!include/glad/gl.h
+!include/KHR/khrplatform.h
+!src/
+!src/gl.c
