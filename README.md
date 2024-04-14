@@ -3,7 +3,7 @@ glad
 
 Glad for use in DMU C++ modules.
 
-Include you CMakeList.txt using FetchContent.
+Include you CMakeLists.txt using FetchContent.
 
 ## Example
 
